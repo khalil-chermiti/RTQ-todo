@@ -1,3 +1,3 @@
 # RTQ-todo 
 
-`a simple todo list build using redux RTQ query`
+`a simple todo list built using redux RTQ query`
